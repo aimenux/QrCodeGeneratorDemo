@@ -7,7 +7,7 @@ using BenchmarkDotNet.Loggers;
 using BenchmarkDotNet.Order;
 using BenchmarkDotNet.Reports;
 
-namespace bench;
+namespace Benchs;
 
 public class BenchConfig : ManualConfig
 {

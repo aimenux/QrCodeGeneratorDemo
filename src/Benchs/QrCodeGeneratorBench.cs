@@ -1,6 +1,6 @@
 ﻿using BenchmarkDotNet.Attributes;
 
-namespace bench;
+namespace Benchs;
 
 [Config(typeof(BenchConfig))]
 [BenchmarkCategory(nameof(BenchCategory.Default))]

@@ -13,4 +13,4 @@ In this demo, i m generating qr codes using various libraries :
 - [SkiaSharp.QrCode](https://github.com/guitarrapc/SkiaSharp.QrCode)
 >
 
-**`Tools`** : net 7.0, qr-code-generation, xunit, fluent-assertions
+**`Tools`** : net 8.0, qr-code-generation, xunit, fluent-assertions
